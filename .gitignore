@@ -1,0 +1,24 @@
+# Private documents, financial data and generated outputs
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.xlsm
+*.pdf
+*.zip
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.jsonl
+*.env
+.env*
+.DS_Store
+node_modules/
+input/
+inputs/
+output/
+outputs/
+private/
+__pycache__/
